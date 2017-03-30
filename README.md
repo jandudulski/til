@@ -9,13 +9,13 @@ try too keep it concise and regular.
 
 ### Categories
 
-* [Todo](#todo)
+* [Git](#git)
 
 ---
 
-### Todo
+### Git
 
-- [Todo](todo/todo.md)
+- [Named stash](git/named-stash.md)
 
 ## About
 
