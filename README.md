@@ -9,9 +9,14 @@ try too keep it concise and regular.
 
 ### Categories
 
+* [Firefox](#firefox)
 * [Git](#git)
 
 ---
+
+### Firefox
+
+- [Outdated flash plugin](firefox/outdated-flash-plugin.md)
 
 ### Git
 
