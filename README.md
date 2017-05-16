@@ -11,6 +11,7 @@ try too keep it concise and regular.
 
 * [Firefox](#firefox)
 * [Git](#git)
+* [Linux](#linux)
 
 ---
 
@@ -21,6 +22,10 @@ try too keep it concise and regular.
 ### Git
 
 - [Named stash](git/named-stash.md)
+
+### Linux
+
+- [Escape locked SSH](linux/escape-locked-ssh.md)
 
 ## About
 
