@@ -9,10 +9,15 @@ try too keep it concise and regular.
 
 ### Categories
 
+* [Ansible](#ansible)
 * [Firefox](#firefox)
 * [Git](#git)
 
 ---
+
+### Ansible
+
+- [Booleans in template](ansible/booleans-in-template.md)
 
 ### Firefox
 
